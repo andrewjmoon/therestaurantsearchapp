@@ -9,7 +9,7 @@ const Home = ({ setInputFood, handleOutsideClick }) => {
       <h1>Welcome to the Homepage.</h1>
       <h3>Please search the restaurant or type of food and the city.</h3>
       <h3>This site utilizes the yelp fusion API for the data. </h3>
-      <h3>The Leaflet js is utilzed for the mapping aspect of the site. </h3>
+      <h3>Leaflet js is utilized for the mapping aspect of the site. </h3>
       <h3>
         Press the The Restaurant Search link on the Navbar to go to the home
         page.{' '}
